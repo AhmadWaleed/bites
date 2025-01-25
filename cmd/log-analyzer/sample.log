@@ -1,0 +1,8 @@
+2025-01-01 10:00:00 INFO Starting the application
+2025-01-01 11:01:00 DEBUG Initializing module X
+2025-01-01 12:02:00 ERROR Failed to connect to database
+2025-01-01 13:03:05 INFO Application stopped
+2025-01-01 14:04:00 WARN Memory usage is high
+2025-01-01 15:05:00 INFO Request processed in 120 ms
+2025-01-01 16:06:00 INFO Request processed in 250 ms
+2025-01-01 17:07:00 INFO Request processed in 300 ms
